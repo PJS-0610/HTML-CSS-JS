@@ -1,0 +1,11 @@
+.outer {
+  width: 200px; height: 200px;
+  background-color: plum;
+}
+.with-bg {
+  height: 100%;
+  background-color: yellow;
+  background-image: url(https://showcases.yalco.kr/html-css/02-08/images/mona-lisa.jpg);
+  background-size: cover;
+  border-radius: 50%;
+}
