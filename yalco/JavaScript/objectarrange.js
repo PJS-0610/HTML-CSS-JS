@@ -1,5 +1,6 @@
 // 파이썬에서의 딕셔너리
-// 자바스크립트에서는 프로퍼티(property)(키와 값의 조합)라 함
+// 자바스크립트에서는 객체(object)라 함
+// 프로퍼티(property)(키와 값의 조합)로 구성
 const person1 = {
   name: '김철수',
   age: 25,
@@ -71,7 +72,7 @@ console.log(numbers);
 
 console.log(winners[winners.length]);
 
-// 객체(object/property) 와 배열 중첩사용 가능
+// 객체(object) 와 배열 중첩사용 가능
 const person2 = {
   name: '김달순',
   age: 23,
